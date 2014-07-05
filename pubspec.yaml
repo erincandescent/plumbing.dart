@@ -5,7 +5,6 @@ description: Dart toolkit for Pump.io connected applications
 homepage: https://github.com/oshepherd/plumbing.dart
 dependencies:
   alchemy: '>=0.1.0 <0.2.0'
-  bootjack: '>=0.6.5 <0.7.0'
   browser: '>=0.10.0 <0.11.0'
   hubsubbable: '>=0.1.0 <0.2.0'
   oauth: '>=0.2.0 <0.3.0'
